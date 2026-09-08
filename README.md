@@ -41,6 +41,7 @@
     - [Configuration](#configuration)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Data analysis & data science](#data-analysis--data-science)
+    - [Data semantics](#data-semantics)
     - [Databases](#databases)
       - [Internals](#internals)
       - [NoSQL](#nosql)
@@ -1562,6 +1563,7 @@ _See also: [Site Reliability Engineering (SRE)](#site-reliability-engineering-sr
 - [Guide on Structured Logs](https://signoz.io/blog/structured-logs/)
 - [What an error log level should mean](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 - [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)
+- [Instrumenting distributed systems for operational visibility](https://builder.aws.com/content/3EuxPBdIiiUhB5IK47p3O3fxhy7/instrumenting-distributed-systems-for-operational-visibility), AWS Builder Center
 
 #### Error/exception handling
 
